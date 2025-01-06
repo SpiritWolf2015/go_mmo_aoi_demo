@@ -1,2 +1,2 @@
 # go_mmo_aoi_demo
-mmo game server AOI demo by golang
+mmo game server AOI demo by golang with zinux
